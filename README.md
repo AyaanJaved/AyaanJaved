@@ -1,8 +1,10 @@
-### Hey! 👋, Ayaan here
+## Hey! 👋, **Ayaan** here
 <!--#### I am GitHub Readme Generator's creator--->
 
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Android architecture components!
+#
+#
 
 <!---
 AyaanJaved/AyaanJaved is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
